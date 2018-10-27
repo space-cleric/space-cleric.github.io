@@ -11,7 +11,7 @@
    height="559"
    version="1.1"
    id="svg3791"
-   sodipodi:docname="space_cleric.svg"
+   sodipodi:docname="space_cleric_clear.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    inkscape:export-filename="/home/tomd/Projects/public/space-cleric/space-cleric.github.io/assets/images/space_cleric.svg.png"
    inkscape:export-xdpi="96"
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,7 +41,7 @@
      inkscape:window-height="1012"
      id="namedview3793"
      showgrid="false"
-     inkscape:zoom="1.4615385"
+     inkscape:zoom="1.46"
      inkscape:cx="144.44737"
      inkscape:cy="279.5"
      inkscape:window-x="0"
@@ -50,13 +50,6 @@
      inkscape:current-layer="svg3791" />
   <defs
      id="SvgjsDefs1307" />
-  <rect
-     style="fill:#15172a;stroke-width:1.00422263;fill-opacity:1"
-     id="rect3799"
-     width="582.26312"
-     height="560.36841"
-     x="-1.3684211"
-     y="-1.3684211" />
   <g
      id="SvgjsG1308"
      featurekey="root"
